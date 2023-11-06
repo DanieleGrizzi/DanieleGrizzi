@@ -1,16 +1,18 @@
-### Hi there 👋
+Daniele Grizzi
+=============================================================================================================================
 
-<!--
-**DanieleGrizzi/DanieleGrizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer | Angular Developer
+---------------------------------------
 
-Here are some ideas to get you started:
+Front-End Developer with extensive experience in developing SPA with Angular framework.
+Commited to write clean, dry and readable code!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=azure,git,vscode)](https://skillicons.dev)
+
+And most important..
+
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
