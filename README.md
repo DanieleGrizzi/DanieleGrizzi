@@ -4,8 +4,9 @@ Daniele Grizzi
 Front-End Developer | Angular Developer
 ---------------------------------------
 
-Front-End Developer with extensive experience in developing SPA with Angular framework.
-Commited to write clean, dry and readable code!
+Front-End Developer with extensive experience in developing web applications with Angular framework.
+Committed to write clean, dry and readable code!
+"Slow is smooth. Smooth is fast." :) 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=angular,ts,reactivex,js,html,css,sass,bootstrap)](https://skillicons.dev)
 
