@@ -1,25 +1,11 @@
 Daniele Grizzi
 =============================================================================================================================
 
-Front-End Developer | Angular Developer
+Senior Front-End Developer | Angular | Next.js | React | Typescript
 ---------------------------------------
 
-Front-End Developer with extensive experience in web app development with Angular framework.
+Senior Front-End Developer with extensive experience in designing and developing complex yet scalable web apps with Angular and React/Next.js.
 
-Committed to write clean, solid and readable code.
+Committed to write clean, solid and readable code while continuously studying and absorbing from other devs.
 
-"Slow is smooth. Smooth is fast!" 🚀
-
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,reactivex,js,npm)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=azure,git,vscode,visualstudio)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
-
-And most important..
-
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
+I also really enjoy training my teammates and sharing what I have learned!
